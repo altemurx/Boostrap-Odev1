@@ -1,0 +1,35 @@
+.menu{
+    height: 0vh;
+    width: 102.1%;
+    justify-content: space-around;
+    margin-left: -2.1%;
+
+}
+
+
+.li{
+    display: inline;
+}
+
+.jumbotron{
+    background-color:#E9ECEF;
+    margin-top: 6.5px;
+}
+
+.buton{
+    margin-left: 25px;
+    margin-top: 1%;
+    background-color: blueviolet;
+    color: aquamarine;
+    border-color: bisque;
+    border-radius: 5px;
+}
+
+.container{
+    padding: 2.5%;
+    text-align: center;
+}
+
+.arkaplan{
+    background-color:#E9ECEF;
+}
